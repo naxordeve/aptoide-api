@@ -1,1 +1,36 @@
+{
+    "name": "aptoide-api",
+    "version": "4.0.0",
+    "description": "Search and get download apk",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js",
+        "start": "node index.js"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/naxordeve/aptoide-api.git"
+
+    },
+    "keywords": [
+        "search",
+        "apk downloader"
+
+    ],
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "node-fetch": "^3.3.0"
+
+    },
+    "author": "naxordeve (https://github.com/naxordeve)",
+    "npm_publisher": "Diegoson",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/naxordeve/aptoide-api/issues"
+    },
+    "homepage": "https://github.com/naxordeve/aptoide-api#readme"
+
+}
+
 
