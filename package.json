@@ -1,6 +1,6 @@
 {
     "name": "aptoide-api",
-    "version": "4.0.4",
+    "version": "4.0.7",
     "description": "Search and get download apk",
     "main": "index.js",
     "scripts": {
@@ -15,7 +15,8 @@
     },
     "keywords": [
         "search",
-        "apk downloader",
+        "download",
+        "app store",
         "apdl"
 
     ],
