@@ -82,6 +82,8 @@ Returns: Promise<Buffer> containing the APK data
 
 _```By Naxordeve(Diegoson)```
 
+# SOUTH AFRICA
+
 ## License
 
 MIT
