@@ -80,6 +80,8 @@ Parameters:
 
 Returns: Promise<Buffer> containing the APK data
 
+_```By Naxordeve(Diegoson)```
+
 ## License
 
 MIT
